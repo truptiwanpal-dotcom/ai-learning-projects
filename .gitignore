@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+my_chroma_db/
+Vector Store/my_chroma_db/
+.venv/
+venv/
+*.egg-info/
